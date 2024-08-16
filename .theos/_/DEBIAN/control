@@ -1,0 +1,10 @@
+Package: project.esp
+Name: Project ESP Example
+Depends: mobilesubstrate
+Description: Project ESP by Leeksov!
+Maintainer: GLESquad
+Author: Leeksov
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 6016
